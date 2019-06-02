@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="52669149-0482-49ea-abaf-ed1f64b3f79a" name="kursach" url="http://kursovaya">
+        <fileTransfer port="0" mountedRoot="M:\OpenServer\domains\kursovaya" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

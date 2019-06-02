@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+}
+#menu{
+    width:200px;
+    position: absolute;
+    float:right;
+    left:85%;
+    top:5%;
+}
